@@ -11,9 +11,6 @@ function CenturyFromYear(año){
         siglo=(Math.trunc(año/100))+1;
     }
   }
-
-
   return siglo;
 }
-
 console.log(CenturyFromYear(1905));
