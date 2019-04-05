@@ -2,7 +2,6 @@ function exerciseElaboration(p,n){
   var ult=p;
   var cuadra=0;
   var resto=0;
-  var v;
   for(var i=1; n>-1 ;i++)
   {
     p=p*10;
